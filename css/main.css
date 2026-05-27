@@ -22,12 +22,13 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family: Verdana, Geneva;
+    color: rgb(30, 30, 30);
 }
 p {
     font-size: 1em;
     font-family: Verdana, Geneva;
     line-height: 1.2em;
-    color: #333;
+    color: rgb(0, 10, 10);
 }
 footer {
     border-top: 1px solid #d5d5d5;
