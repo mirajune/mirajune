@@ -1,6 +1,6 @@
 @font-face {
     font-family: custom;
-    scr: url('Noir_medium.otf');
+    scr: url('assets/Noir_medium.otf');
 }
 .animated-rainbow {
     font-size: 42px;
@@ -18,7 +18,7 @@
 body {
     margin: 40px auto;
     width: 70%;
-    background-image: url('test 38.png');
+    background-image: url('assets/test 38.png');
 }
 nav ul, footer ul {
     font-family: custom;
@@ -45,7 +45,7 @@ h1 {
 h2 {
     font-size: 1.7em;
     font-family: custom;
-    color: white;
+    color: rgb(80 80 80);
     text-shadow: 2px 2px 4px #000000;
 }
 p {
